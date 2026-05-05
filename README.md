@@ -13,55 +13,6 @@
 
 ---
 
-## Overview
+## Něco nefunguje?
 
-4CAMPS Manager je aplikace postavená na **Tauri + React** pro správu 4CAMPS počítačů
-
-## Tech Stack
-
-- **Frontend:** React 19 + TypeScript + Vite
-- **Desktop runtime:** Tauri v2 (Rust backend)
-- **Komunikace:** Socket.IO
-- **Package manager:** Bun
-
-## Quick Start
-
-```bash
-bun install
-bun run tauri dev
-```
-
-## Scripts
-
-- `bun run tauri dev` - Spustí aplikaci v dev režimu
-- `bun run tauri build` - Vytvoří produkční desktop build (nefunguje pro aktualizace)
-
-
-## Project Structure
-
-- `src/` - React frontend
-- `src/routes/` - Routy
-- `src/components/` - Sdílené UI komponenty
-- `src/lib/` - Sdílené frontend utility a typy
-- `src-tauri/src/` - Rust commandz a runtime logika
-- `src-tauri/capabilities/` - Konfigurace Tauri capabilities
-
-## Releasing
-
-1. Připrav změny:
-   ```bash
-   git add .
-   ```
-2. Commit:
-   ```bash
-   git commit -m "chore: release vX.Y.Z"
-   ```
-3. Push:
-   ```bash
-   git push origin main
-   ```
-4. Tag:
-   ```bash
-   git tag vX.Y.Z
-   git push origin vX.Y.Z
-   ```
+Kdyby se stalo, že něco nefunguje, prosím napiš mi na Discordu **@jsemolik**, nebo mě označ na **4C Týmu** v kanálu pro PC program :D
