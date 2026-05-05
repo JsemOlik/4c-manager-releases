@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JsemOlik/4c-manager-releases/refs/heads/main/public/img/manager-logo.svg" alt="Manager Logo" width="220" />
+  <img src="https://raw.githubusercontent.com/JsemOlik/4c-manager-releases/refs/heads/main/public/img/manager-logo.svg" alt="Manager Logo" width="280" />
 </p>
 
 <p align="center">
