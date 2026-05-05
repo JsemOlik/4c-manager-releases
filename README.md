@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JsemOlik/4c-manager-releases/refs/heads/main/public/img/manager-logo.svg?token=GHSAT0AAAAAAD4KD2JO7TT23FYVKQSOAD4K2P2JOCQ" alt="Manager Logo" width="220" />
+  <img src="https://raw.githubusercontent.com/JsemOlik/4c-manager-releases/refs/heads/main/public/img/manager-logo.svg" alt="Manager Logo" width="220" />
 </p>
 
 <h1 align="center">4CAMPS Manager</h1>
