@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/JsemOlik/4c-manager-releases/refs/heads/main/public/img/manager-logo.svg" alt="Manager Logo" width="220" />
 </p>
 
-<h1 align="center">4CAMPS Manager</h1>
 <p align="center">Desktop control client for 4CAMPS computer rooms.</p>
 
 <p align="center">
