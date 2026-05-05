@@ -15,4 +15,4 @@
 
 ## Něco nefunguje?
 
-Kdyby se stalo, že něco nefunguje, prosím napiš mi na Discordu **@jsemolik**, nebo mě označ na **4C Týmu** v kanálu pro PC program :D
+Kdyby se stalo, že něco nefunguje, prosím napiš mi na Discordu **@jsemolik**, nebo mě označ ve **4C Týmu** v kanálu pro PC program :D
