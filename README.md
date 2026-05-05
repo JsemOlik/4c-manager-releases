@@ -15,46 +15,40 @@
 
 ## Overview
 
-4CAMPS Manager is a **Tauri + React** desktop app used to manage 4CAMPS PCs in real time.
-It verifies the local machine through the API, connects to Socket.IO, and reacts to remote actions (block, ping, forms, power actions).
+4CAMPS Manager je aplikace postavená na **Tauri + React** pro správu 4CAMPS počítačů
 
 ## Tech Stack
 
 - **Frontend:** React 19 + TypeScript + Vite
 - **Desktop runtime:** Tauri v2 (Rust backend)
-- **Realtime:** Socket.IO client
+- **Komunikace:** Socket.IO
 - **Package manager:** Bun
 
 ## Quick Start
 
 ```bash
 bun install
-```
-
-Tauri development mode:
-
-```bash
 bun run tauri dev
 ```
 
 ## Scripts
 
-- `bun run tauri dev` - Run desktop app in dev mode
-- `bun run tauri build` - Build production desktop binaries (Won't work for updates)
+- `bun run tauri dev` - Spustí aplikaci v dev režimu
+- `bun run tauri build` - Vytvoří produkční desktop build (nefunguje pro aktualizace)
 
 
 ## Project Structure
 
 - `src/` - React frontend
-- `src/routes/` - Route pages
-- `src/components/` - Shared UI components
-- `src/lib/` - Shared frontend utilities and types
-- `src-tauri/src/` - Rust commands and app runtime logic
-- `src-tauri/capabilities/` - Tauri capability config
+- `src/routes/` - Routy
+- `src/components/` - Sdílené UI komponenty
+- `src/lib/` - Sdílené frontend utility a typy
+- `src-tauri/src/` - Rust commandz a runtime logika
+- `src-tauri/capabilities/` - Konfigurace Tauri capabilities
 
 ## Releasing
 
-1. Stage changes:
+1. Připrav změny:
    ```bash
    git add .
    ```
